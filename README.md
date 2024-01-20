@@ -27,6 +27,14 @@ For Chrome:
 
 4. (Optional): To permanently display the Pattern Highlighter icon, click the Extensions menu puzzle button in the address bar and then click the Pin button.
 
+For Edge:
+
+Access the Extensions page by typing edge://extensions in a fresh tab. Alternatively, click the Settings and more (...) button, choose Extensions, and select Manage extensions from the displayed popup. Activate Developer Mode by toggling the switch next to Developer mode. Utilize the Load unpacked button to choose the chrome directory. Optionally, click the Extensions menu puzzle button in the address bar, and then select the Show in Toolbar button (eye icon) next to the Pattern Highlighter to ensure its icon is always visible.
+
+For Opera:
+
+Visit the Extensions page by typing opera://extensions in a new tab, or utilize the Cmd/Ctrl + Shift + E shortcut. Activate Developer Mode by toggling the switch adjacent to Developer mode. Press the Load unpacked button and choose the chrome directory. Optionally, click the Extensions menu cube button in the address bar and subsequently hit the Pin button next to the Pattern Highlighter to ensure its icon remains visible permanently.
+
 Tech Stack Used:-
 
 1. NLP model- Logistic Regression, SVM, Random Forest, Gradient Boosting
