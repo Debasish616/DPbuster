@@ -59,7 +59,7 @@
     }
   },
   "patternCountdown_name": {
-    "message": "Misleading Product Information | Limited User Choice ",
+    "message": "Misleading Product Information | Limited User Choice | Countdown",
     "description": "Name of the countdown pattern."
   },
   
@@ -84,7 +84,7 @@
     "description": "Brief explanation of the scarcity Pattern."
   },
   "patternSocialProof_name": {
-    "message": "Social Proof | Dark Patterns in User Reviews | Countdown",
+    "message": "Social Proof | Dark Patterns in User Reviews",
     "description": "Name of the social proof pattern."
   },
   "patternSocialProof_infoUrl": {
