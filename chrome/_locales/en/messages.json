@@ -64,7 +64,7 @@
   },
   
   "patternCountdown_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/druck2-en/",
+    "message": "https://www.deccanherald.com/business/centre-releases-guidelines-on-dark-patterns-that-mislead-consumers-2793998",
     "description": "URL to the explanation of the countdown pattern on the dapde.de website."
   },
   "patternCountdown_info": {
@@ -76,7 +76,7 @@
     "description": "Name of the scarcity pattern."
   },
   "patternScarcity_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/druck2-en/",
+    "message": "https://www.investopedia.com/terms/s/scarcity.asp",
     "description": "URL to the explanation of the scarcity pattern on the dapde.de website."
   },
   "patternScarcity_info": {
@@ -88,7 +88,7 @@
     "description": "Name of the social proof pattern."
   },
   "patternSocialProof_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/druck2-en/",
+    "message": "https://www.sciencedirect.com/science/article/abs/pii/S0261517723000456",
     "description": "URL to the explanation of the social proof pattern on the dapde.de website."
   },
   "patternSocialProof_info": {
@@ -100,7 +100,7 @@
     "description": "Name of the forced continuity pattern."
   },
   "patternForcedContinuity_infoUrl": {
-    "message": "https://dapde.de/en/dark-patterns-en/types-and-examples-en/operativer-zwang2-en/",
+    "message": "https://www.itispivotal.com/post/dark-patterns#:~:text=Brignull's%20%E2%80%9CForced%20Continuity%E2%80%9D%20%E2%80%93%20If,keep%20up%20with%20expiration%20dates",
     "description": "URL to the explanation of the forced continuity pattern on the dapde.de website."
   },
   "patternForcedContinuity_info": {
